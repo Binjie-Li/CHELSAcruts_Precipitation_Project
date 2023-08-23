@@ -1,4 +1,4 @@
-# Dissertaion
+# Dissertation
 This repository consists of all the code need for Binjie Li's  Master degree thesis.
 
 Thesis name: 
